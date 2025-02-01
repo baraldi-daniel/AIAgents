@@ -1,6 +1,5 @@
 
 from langchain_ollama import ChatOllama
-from IPython.display import display, Image
 from tools.tools_node import tools
 from state import State
 from langgraph.graph.message import add_messages

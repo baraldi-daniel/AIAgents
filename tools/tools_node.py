@@ -38,7 +38,7 @@ def selenium_search(query: str):
 
 
     import time
-    time.sleep(1)
+    time.sleep(2)
 
 
 
